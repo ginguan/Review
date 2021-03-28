@@ -1,13 +1,13 @@
-import React, {Component} from 'react';
+import logo from '../../logo.svg';
 
-class Index extends Component {
-    render() {
-        return (
-            <div>
-                
-            </div>
-        );
-    }
+import './style.css';
+
+function Index() {
+  return (
+    <div className="App">
+
+    </div>
+  );
 }
 
 export default Index;
